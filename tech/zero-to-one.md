@@ -91,7 +91,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   A few pages ranting about the education system (nothing new here). His point is that schools funnel students' mindsets into competing for artificially-competitive accolades. For him it was a Supreme Court clerkship, and he credits his success in entrepreneurship to not getting that clerkship.  "All Rhodes Scholars had a great future in their past" (37). Ouch.
 
 * In Business    
-  Business, unlike schools, is strikingly proud of its cutthroat-competitive nature. Clausewitz and Sun Tzu are must-reads for the modern MBA. War lingo like *headhunters*, *sales force*, *captive markets*, and *making a killing* pervade the language. "But really it's competition, not business, that is like war: allegedly necessary, supposedly valiant, but ultimately destructive" (37).
+  Business, unlike schools, is remarkably proud of its cutthroat-competitive nature. Clausewitz and Sun Tzu are must-reads for the modern MBA. War lingo like *headhunters*, *sales force*, *captive markets*, and *making a killing* pervade the language. "But really it's competition, not business, that is like war: allegedly necessary, supposedly valiant, but ultimately destructive" (37).
 
 * On the Origins of Competition, featuring Marx and Shakespeare    
   For Marx, competition arises out of difference. Class difference produces class conflict.    
@@ -105,11 +105,40 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 * Why Competition is Bad    
   * **Reason 1:** because others are waiting. Take the rivalry between Microsoft and Google: Windows vs Chrome OS, Bing vs Google Search, Office vs Docs, Explorer vs Chrome, Surface vs Nexus. Burdened by competition, they've let Apple slip right past them. 
   * **Reason 2:** because it limits your thinking. After Square came out with its mobile card reader, every other payment service raced to belch out its own, instead of building something better.
-  * **Reason 3:** because you compete over nothing. He brings up the online pet store mania of the 90's, where dozens of firms clawed tooth and nail over a nonexistent market, and everyone lost.
-  * **Reason 4:** because it's not necessary. He gives the story of PayPal merging with X.com. Despite indentical products and intense competition (working just 4 blocks apart), he and Elon decided to come together to brave a bigger enemy, the inflating tech bubble.
+  * **Reason 3:** because you compete over nothing. He brings up the online pet store mania of the 90's, where dozens of firms clawed tooth-and-nail over a nonexistent market, and everyone lost.
+  * **Reason 4:** because it's not necessary. He gives the story of PayPal merging with X.com. Despite indentical products and intense competition (working just 4 blocks apart), he and Elon decided to come together to brave a bigger enemy, the rapidly-inflating tech bubble.
 
 * Human Nature is Bad    
-  Fighting over things that don't matter (as Shakespeare put it, "even for an eggshell"), is an intensely human phenomenon. But for Thiel, this is disastrous in business. It seems like he's talking about putting aside one's pride and not fighting for the sake of ego; something that's often extolled in theory, and yet just as often negated by counterexamples of successful people who rely on massive egos--Jobs, Kobe, Ye... Perhaps, then, it's about recognizing competitiveness as as addictive force, and indulging it with patience and within macro-level strategies (another reason why those with "Asperger's-like social ineniptitude" seem to have an advantage in the Valley). This contradiction of being crazy and having a clear mind at the same time is something he mulls over later on in describing successful founders.
+  Fighting over things that don't matter (as Shakespeare puts it, "even for an eggshell"), is an intensely human phenomenon. But for Thiel, this proves disastrous in business. It seems like he's talking about putting aside one's pride and not fighting for the sake of ego; something that's often extolled in theory, and yet just as often negated by counterexamples of successful people who rely on massive egos--Jobs, Kobe, Ye... Perhaps, then, it's about recognizing competitiveness as as addictive force, and indulging it with patience and within macro-level strategies (another reason why those with "Asperger's-like social ineniptitude" seem to have an advantage in the Valley). This contradiction of being crazy and having a clear mind at the same time is something he mulls over later on in describing successful founders.
 
+
+### Chapter 5: Building a Monopoly
+
+* Life's a Marathon    
+  Companies are valued based on their "ability to generate cash flows *in the future*" (44). This explains why the NYT makes more money (right now) than Twitter, but is valued far less. Therefore in tech, it pays to focus on long-term development rather than day-to-day turbulence.
+  But this can be difficult in a world of "measurement mania". "Growth is easy to measure, but durability isn't"; examples like Zynga and Groupon remind us that good short-term metrics are no guarantee for long-term prosperity if the business plan is fundamentally lacking (47).
+
+* Characteristics of a Monopoly    
+  * **Proprietary Technology:** Arguably the most important, as it ensures your value prop can't be easily copied. Thiel's defines proprietary as at least an order of magnitude better than the current alternative. The easiest way to do this is to create something new (for theoretically-infinite improvement); otherwise, you gotta build on existing solutions: PayPal made eBay transactions 10x easier, Amazon had 10x more books than any store, Apple put 10x better integrated design into the iPad. 
+  * **Network Effects:** Two important points here. First, a product should be more useful as more people use it--you're more likely to use Facebook if your friends already are. However, the product still has to work great in a small market--the company Xanadu (an early, quixotic attempt at the internet) failed because its technology could *only* work at scale, whereas Facebook gained traction within Harvard.
+  * **Economies of Scale:** A monopoly must scale well, and this might be software's greatest advantage: while a store's costs and challenges scale linearly, the cost of distributing more software is marginal. "A good startup should have the potential for great scale built into its first design" (51).
+  * **Branding:** The obvious paragon of branding today is Apple, thanks to minimalist design, premium price positioning, and most of all, the "lingering nimbus of Steve Job's personal charisma" (52). But while hordes of startups have tried to emulate Apple's style, they've been taught it takes much more than just branding to succeed. Apple has the killer details that can uphold their image, from superior touchscreen materials to touchscreen interfaces designed for those materials. Moreover, they're supported by good network effects from App Store users and developers.
+
+* Start Small    
+  Every startup is small. Every monopoly dominates a market. Therefore, every startup should start with a very small market. "If you think your initial market might be too big, it almost certainly is" (53).
+
+* But Not Too Small    
+  With PayPal, they found that PalmPilot users were too disconnected a group to be a viable consumer base; hence the transition to eBay sellers. "The perfect target market for a startup is a small group of particular people concentrated together and served by few or no competitors" (54). Beware of those who want to be a small fish in a big pond.
+
+* Scaling Up    
+  After dominance in a niche market is achieved, it's time to expand. When Amazon wanted to move on from books, it had two choices: "expand the number of people who read books, or expand to adjacent markets" (55). eBay started by dominating super-niche markets like Beanie Baby auctions, then slowly grew to serve all hobby trading.    
+  > Sequencing markets correctly is underrated, and it takes discipline to expand gradually. The most successfuly companies the core progression a part of their founding narrative. (56)
+
+* Don't Disrupt    
+  Another one of Thiel's red flags. Disruption originally meant using new technology to introduce cheaper products that could overtake existing, more expensive options that relied on old technology. Now it's voguish jargon used to attract attention.
+  But neither connotation is healthy for monopolist thinking. The former places too much focus on incumbent products; "if your company can be summed up by its opposition to already existing firms, it can't be completely new" and won't be a monopoly. The latter compels one to "look for trouble and find it" (57).
+
+* Be the Last Mover   
+  People think it pays to be the first mover in a market, to get a strong foothold before anyone else can react. But really, you want to focus on being the last mover, "to make the last great development" in that market (or as he says later on, to capture its key segment) (58).
 
   
