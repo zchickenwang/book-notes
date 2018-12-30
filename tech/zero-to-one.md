@@ -87,28 +87,28 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 
 ### Chapter 4: The Ideology of Competition
 
-* In School
+* In School    
   A few pages ranting about the education system (nothing new here). His point is that schools funnel students' mindsets into competing for artificially-competitive accolades. For him it was a Supreme Court clerkship, and he credits his success in entrepreneurship to not getting that clerkship.  "All Rhodes Scholars had a great future in their past" (37). Ouch.
 
-* In Business
+* In Business    
   Business, unlike schools, is strikingly proud of its cutthroat-competitive nature. Clausewitz and Sun Tzu are must-reads for the modern MBA. War lingo like *headhunters*, *sales force*, *captive markets*, and *making a killing* pervade the language. "But really it's competition, not business, that is like war: allegedly necessary, supposedly valiant, but ultimately destructive" (37).
 
-* On the Origins of Competition, featuring Marx and Shakespeare
-  For Marx, competition arises out of difference. Class difference produces class conflict.
+* On the Origins of Competition, featuring Marx and Shakespeare    
+  For Marx, competition arises out of difference. Class difference produces class conflict.    
   For Shakespeare, conflict is rather arbitrary: combatants are more or less the same. "It's not at all clear why they should be fighting, since they have nothing to fight about"--look no further than *Romeo and Juliet* (38).
 
-* So Who's Right
-  In business, he argues, Shakespeare's model is more accurate. People within a firm compete for career advancement. Firms compete for market share. Goals and plans are defined vis-à-vis the opposition. I'm reminded of a line from Conan:
-  *Barbarian General (Akio Mitamura): “Conan, what is best in life?”*
+* So Who's Right    
+  In business, he argues, Shakespeare's model is more accurate. People within a firm compete for career advancement. Firms compete for market share. Goals and plans are defined vis-à-vis the opposition. I'm reminded of a line from Conan:    
+  *Barbarian General (Akio Mitamura): “Conan, what is best in life?”*    
   *Conan (Arnold Schwarzenegger): “To crush your enemies, see them driven before you, and to hear the lamentation of their women!”*
 
-* Why Competition is Bad
-  * Reason 1: because others are waiting. Take the rivalry between Microsoft and Google: Windows vs Chrome OS, Bing vs Google Search, Office vs Docs, Explorer vs Chrome, Surface vs Nexus. Burdened by competition, they've let Apple slip right past them. 
-  * Reason 2: because it limits your thinking. After Square came out with its mobile card reader, every other payment service raced to belch out its own, instead of building something better.
-  * Reason 3: because you compete over nothing. He brings up the online pet store mania of the 90's, where dozens of firms clawed tooth and nail over a nonexistent market, and everyone lost.
-  * Reason 4: because it's not necessary. He gives the story of PayPal merging with X.com. Despite indentical products and intense competition (working just 4 blocks apart), he and Elon decided to come together to brave a bigger enemy, the inflating tech bubble.
+* Why Competition is Bad    
+  * **Reason 1:** because others are waiting. Take the rivalry between Microsoft and Google: Windows vs Chrome OS, Bing vs Google Search, Office vs Docs, Explorer vs Chrome, Surface vs Nexus. Burdened by competition, they've let Apple slip right past them. 
+  * **Reason 2:** because it limits your thinking. After Square came out with its mobile card reader, every other payment service raced to belch out its own, instead of building something better.
+  * **Reason 3:** because you compete over nothing. He brings up the online pet store mania of the 90's, where dozens of firms clawed tooth and nail over a nonexistent market, and everyone lost.
+  * **Reason 4:** because it's not necessary. He gives the story of PayPal merging with X.com. Despite indentical products and intense competition (working just 4 blocks apart), he and Elon decided to come together to brave a bigger enemy, the inflating tech bubble.
 
-* Human Nature is Bad
+* Human Nature is Bad    
   Fighting over things that don't matter (as Shakespeare put it, "even for an eggshell"), is an intensely human phenomenon. But for Thiel, this is disastrous in business. It seems like he's talking about putting aside one's pride and not fighting for the sake of ego; something that's often extolled in theory, and yet just as often negated by counterexamples of successful people who rely on massive egos--Jobs, Kobe, Ye... Perhaps, then, it's about recognizing competitiveness as as addictive force, and indulging it with patience and within macro-level strategies (another reason why those with "Asperger's-like social ineniptitude" seem to have an advantage in the Valley). This contradiction of being crazy and having a clear mind at the same time is something he mulls over later on in describing successful founders.
 
 
