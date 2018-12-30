@@ -52,7 +52,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   * Product, not sales (true technology distributes itself).
 
 * Reactive Measures are wrong   
-  Maybe. He argues that alternative beliefs are also valid:
+  Maybe. He suggests that the alternative beliefs are no less valid:
   * Risk boldness
   * A bad plan is better than no plan
   * No profits in competition (see Chapter 4)
@@ -62,6 +62,25 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   The dogmas he talks about didn't end up lasting very long. I mean what's different about the bubble we're in now? Agile methodologies? The blind funding, viral marketing, early-stage losses, it all seems like that ethos has returned. Long live the dreamer.
 
 
+### Chapter 3: All Happy Companies Are Different
 
+* Airlines vs Google      
+  "Creating value is not enough--you also need to capture some of the value you create" (23). Airline margins are less than 1 percent. Google's is over 20. Why is that? Monopoly.
 
+* Perfect Competition    
+  What Econ 101 preaches to be the ideal state of a free market. But in fact, perfect competition means no firm has any competitive edge or market power, so any margins would be quickly equilibrated away as new firms enter the market. So "in the long run *no company makes an economic profit*" (24).
+
+* Monopoly    
+  How profits are actually made. He asserts that "capitalism and competition are opposites"; in other words, monopoly is the backbone of capitalism (25). In fact, "*Monopoly is the condition of every successful business*" (34). The lesson here? Look for markets you can dominate. 
+
+* *Lies People Tell (25)*    
+  So why is this truth about competition and monopolies so well hidden? Because both competitive firms and monopolies want it that way. As competitive firms scramble to differentiate themselves, they'll do anything to convince people that they're in "a league of their own", that there's no competition (28). A competitive firm that wants to look like a monopoly will define their market to specific intersection of several markets (e.g. British food in Palo Alto).      
+  Conversely, true monopolists need to hide their identity in order to survive. They'll do anything to make sure no audits or investigations are sent their way, which usually means hyping up imaginary sources of competition. A monopoly that wants to look like it has competition will define their market to be a general union of several markets (multifaceted tech vs search ads).
+
+* *In business, money is either an important thing or it is everything (31)*    
+  For firms in competition, it's everything. Any long term plans are jettisoned in the face of "daily brute struggle for survival" (32). Monopoly profits, on the other hand, affords one the bandwidth to think about larger visions like R&D and social good.
+
+* But Aren't Monopolies Bad?     
+  We're taught that monopolies are bad because they can raise prices arbitrarily (cough cough big pharma). But this is only the case "*in a world where nothing changes*" (32). In the real world, creative monopolies open up new markets and avenues for creation, from which new companies can innovate further. He gives as example the IBM-Microsoft-Apple lineage.    
+  So why are economists blind to this fact? Personally, I don't think they are. Thiel ventures a guess, but ends up just dribbling out some empty wordplay with allusions to physics (it almost makes me feel dumb).
   
