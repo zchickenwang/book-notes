@@ -9,12 +9,12 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 ### Chapter 1: The Challenge of the Future
 
 * *What very important truth do few people agree with you on? (5)*   
-  One of Thiel's go-to interview questions, and pretty tough--intellectually because the truths that are taught are common, and psychologically because
+  One of Thiel's go-to interview questions--tough intellectually because the truths that schools teach are common ones, and tough psychologically because
   it's difficult to argue an unpopular opinion.
 
 * *If nothing about our society changes fo the next 100 years, then the future
   is over 100 years away. (6)*   
-  A clever pithy. Good reminder that we can't take progress for granted. He later harkens back to Americans in the 60's, echoing their expectations of "a four-day workweek, energy too cheap to meter, and vacations on the moon" (9). Damn. All they got instead were smaller computer chips. And just looking around at subways, street lights, buildings and houses, trash cans and sewage systems, even the way we cook and clean and work out... it does seem like our surroundings are "strangely old". Taken from Elon, perhaps?
+  A clever pithy. Good reminder that we can't take progress for granted. He harkens back to Americans in the 60's, echoing their expectations of "a four-day workweek, energy too cheap to meter, and vacations on the moon" (9). Damn... all they got instead were smaller computer chips. And just looking around at subways, street lights, buildings and houses, trash cans and sewage systems, even the way we cook and clean and work out... it does seem like our surroundings are "strangely old". Taken from Elon, perhaps?
 
 * Horizontal vs Vertical Progress   
   Horizontal being copying "things that work", aka taking ideas from 1 to n, or globalisation; vertical being creating new things, aka going from 0 to 1, or technology. While we may find hope in horizontal progress, he argues that there simply aren't enough resources. "Globalisation without new technology is unsustainable" (9).
@@ -33,7 +33,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 ### Chapter 2: Party Like It's 1999
 
 * *"Madness is rare in individuals--but in groups, parties, nations, and ages it is the rule," Nietzsche wrote (before he went mad). (12)*     
-  Thus, a good way of finding contrarian truths is identifying what everyone agrees on. He gives as example the 1990's "New Economy", where it became commonplace for companies to assume heavy losses for page views. As we know now, such thinking turned out to be a bubble (a conventional but incorrect belief).
+  Thus, a good way of finding contrarian truths is identifying what everyone agrees on. He gives as example the 1990's "New Economy", where it became commonplace for companies to assume heavy losses for popularity metrics like page views. As we know now, such thinking turned out to be a bubble (a conventional but incorrect belief).
 
 * *But the distortion caused by bubbles don't disappear when they pop. (13)*      
   Interesting point here--and to a certain extent, we've taken measures aimed at avoiding the 2008 crisis (less voluntary regulation), but Thiel asks us to question if (1) we're misidentifying the causes of the crash, and (2) what could go wrong with a more-regulation approach? "The first step to thinking clearly is to question what we think we know about the past" (13).
@@ -42,10 +42,10 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   The 90's: US recession, jobs going to Mexico, dead soldiers, grunge & heroin, East Asian crises, the ruble fails, the euro fails, everything fails but IT. Then 18 months of dot-com mania, of sketchy startups and limitless money and red ink trophies. "But it's hard to blame people for dancing when the music was playing" (17).
 
 * Paypal's Beginnings   
-  The idea was to facilitate payments between PalmPilots. Turns out the market's too sparse, so pivot to email instead. Pay people to sign up and refer friends. Secured funding right before the bubble burst.
+  The idea was to facilitate payments between PalmPilots. Turns out the market's too sparse, so let's pivot to email instead. Pay people to sign up and refer friends. Secured funding right before the bubble burst.
 
 * Reactive Measures   
-  He lists 4 big changes people made in response to the dot-com crash:
+  He lists 4 big mindset changes people made in response to the dot-com crash:
   * Make incremental advances (don't get cocky)
   * Stay lean (don't plan, it's all just "agnostic experimentation")
   * Improve on the competition (stick with existing markets)
@@ -82,5 +82,34 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 
 * But Aren't Monopolies Bad?     
   We're taught that monopolies are bad because they can raise prices arbitrarily (*cough cough* big pharma). But this is only the case "*in a world where nothing changes*" (32). In the real world, creative monopolies open up new markets and avenues for creation, from which new companies can innovate further. He gives as example the IBM-Microsoft-Apple lineage.    
-  So why are economists blind to this fact? Personally, I don't think they are. Thiel ventures a guess, but ends up just dribbling out some empty wordplay with allusions to physics (it almost makes me feel dumb).
+  So why are economists blind to this fact? Personally, I don't think they are. Thiel ventures a guess, but ends up just dribbling out some empty wordplay with allusions to physics (smh Pete).
+
+
+### Chapter 4: The Ideology of Competition
+
+* In School
+  A few pages ranting about the education system, nothing new here. His point is that schools funnel students' mindsets into competing for artificially-competitive accolades. His was a Supreme Court clerkship, and he credits his success in entrepreneurship to not getting that clerkship.  "All Rhodes Scholars had a great future in their past" (37). Ouch.
+
+* In Business
+  Business, unlike schools, is quite proud of its cutthroat-competitive nature. Clausewitz and Sun Tzu, must-reads for the modern MBA. War lingo like *headhunters*, *sales force*, *captive markets*, and *making a killing* pervade the language. "But really it's competition, not business, that is like war: allegedly necessary, supposedly valiant, but ultimately destructive" (37).
+
+* On the Origins of Competition, featuring Marx and Shakespeare
+  For Marx, competition arises out of difference. Class difference produces class conflict.
+  For Shakespeare, conflict is rather arbitrary: combatants are more or less the same. "It's not at all clear why they should be fighting, since they have nothing to fight about"--look no further than *Romeo and Juliet* (38).
+
+* So Who's Right
+  In business, he argues, Shakespeare's model is more accurate. People within a firm compete for career advancement. Firms compete for market share. Everything revolves around conquering the rivals. I'm reminded of a line from Conan:
+  *Barbarian General: “Conan, what is best in life?”*
+  *Conan: “To crush your enemies, see them driven before you, and to hear the lamentation of their women!”*
+
+* Why Competition is Bad
+  * Reason 1: because others are waiting. Take Microsoft and Google. As they grew, the two companies began to focus more and more on each other. Windows vs Chrome OS. Bing vs Google Search. Office vs Docs. Explorer vs Chrome. Surface vs Nexus. Burdened by competition, they were helpless to stop Apple going right past them. 
+  * Reason 2: because it limits your thinking. After Square came out with its mobile card reader, every other payment service raced to belch out its own.
+  * Reason 3: because you compete over nothing. He brings up the online pet store mania of the 90's, where dozens of firms clawed tooth and nail over a nonexistent market, and everyone lost.
+  * Reason 4: because it's not necessary. He gives the story of PayPal merging with X.com. Despite indentical products and intense competition (working just 4 blocks apart), he and Elon decided to come together to brave a bigger enemy, the inflating tech bubble.
+
+* Human Nature is Bad
+  Fighting over things that don't matter (as Shakespeare put it, "even for an eggshell"), is an intensely human phenomenon. But for Thiel, this is disastrous is business. It seems like he's talking about putting aside one's pride and not fighting for the sake of ego; something that's often extolled in theory, and yet just as often negated by counterexamples of successful people with *massive* egos (in fact, try and think of someone that doesn't). Perhaps, then, it's about recognizing competitiveness as as addictive force, and indulging it with patience and macro-level strategies. This contradiction of being crazy and having a clear mind at the same time is something he hints at later on in describing successful founders.
+
+
   
