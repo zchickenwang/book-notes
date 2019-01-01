@@ -14,7 +14,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 
 * *If nothing about our society changes fo the next 100 years, then the future
   is over 100 years away. (6)*   
-  A clever pithy. Good reminder that we can't take progress for granted. He harkens back to Americans in the 60's, echoing their expectations of "a four-day workweek, energy too cheap to meter, and vacations on the moon" (9). Damn... all they got instead were smaller computer chips. And just looking around at subways, street lights, buildings and houses, trash cans and sewage systems, even the way we cook and clean and work out... it does seem like our surroundings are "strangely old". Taken from Elon, perhaps?
+  A clever, pithy reminder that we can't take progress for granted. He harkens back to Americans in the 60's, echoing their expectations of "a four-day workweek, energy too cheap to meter, and vacations on the moon" (9). Damn... all they got instead were smaller computer chips. And just looking around at subways, street lights, buildings and houses, trash cans and sewage systems, even the way we cook and clean and work out... it does seem like our surroundings are "strangely old". Taken from Elon, perhaps?
 
 * Horizontal vs Vertical Progress   
   Horizontal being copying "things that work", aka taking ideas from 1 to n, or globalisation; vertical being creating new things, aka going from 0 to 1, or technology. While we may find hope in horizontal progress, he argues that there simply aren't enough resources. "Globalisation without new technology is unsustainable" (9).
@@ -140,5 +140,44 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 
 * Be the Last Mover   
   People think it pays to be the first mover in a market, to get a strong foothold before anyone else can react. But really, you want to focus on being the last mover, "to make the last great development" in that market (or as he says later on, to capture its key segment) (58).
+
+
+### Chapter 6: You Are Not a Lottery Ticket
+
+* On the Causes of Success    
+  For those like Malcolm Gladwell, success results from some "lucky breaks and arbitrary advantages" (why I found *Outliers* a somewhat vacuous read). Buffet, Gates, and Bezos offer similar platitudes, attributing their success to the "lucky sperm club", "ovarian lottery", and "incredible planetary alignment". Clearly cop-out answers, and Thiel agrees. He asserts that if success were purely accidental, we wouldn't see serial-billionares like Dorsey and Musk (although this statement seems logically unsound).
+
+* What is Luck    
+  As Emerson wrote:    
+  > Shallow men believe in luck, believe in circumstances... Strong men believe in cause and effect.    
+  I always liked Milton's imagery: "luck is the residue of design". Thiel reflects on the long-standing history of such a sentiment--that luck is something to be mastered, dominated, and controlled. After all, "if you believe your life is mainly a matter of chance, why read this book?" (61).
+
+* Thinking About the Future    
+  He gives 2 axes by which we judge the future.     
+  The first is definitiveness: when you treat the future as something definite, it follows that you should work to understand and shape it. "But if you expect an indefinite future ruled by randomness, you'll give up on trying to master it"--and this is the prevailing attitude of society today, where "process trumps substance" and people try to assemble diverse portfolios of possible options au lieu of making concrete plans (for instance, students from middle school to college are told to have diverse extracurriculars, so that "come what may, he's ready--for nothing in particular") (62).    
+  The second is optimism: whether or not you think the future will be better than the present.
+
+* A Tale of Four Views    
+  * Indefinite Pessimism
+    Aka Europe (sad but true), whose culture today is enslaved to the "myth of decline from some golden age". You don't know when or how this inevitable decline will occur, but it's going to happen, so you might as well "eat drink, and be merry in the meantime" (63).
+
+  * Definite Pessimism
+    This is China today, where most people believe with certainty that the economy will be in trouble, taking action to prepare for the coming trouble. While the poor put everything into savings, the rich search desperately for ways to get their money out of the country--both are haunted by a lack of resources for a growing population, and a too-recent past of starvation.
+
+  * Definite Optimism
+    This is the ideal attitude, and it's what Western society espoused in the mid-late 20th century. Everyone believed in a better future, and many took concrete action to pull that future closer. As Marx and Engels wondered how "such productive forces slumbered in the lap of social labor", new inventors and visionaries arose to tackle problems like ocean routes, skyscrapers and bridges, nuclear bombs, and space travel.
+
+  * Indefinite Optimism
+    What characterizes the US today. To an indefinite optimist, the future will be better, but he doesn't know how exactly. "He expects to profit from the future but sees no reason to design it concretely" (68).
+    How did we become indefinite? For Thiel it began with Baby Boomers, a generation who grew up with great expectations ("things got better every year for the first 18 years of your life, and *it had nothing to do with you*") but no specific plans on how to fulfill them (69). Instead of creating something new, they looked to restructure or optimize existing solutions.
+
+* Perspective    
+  Malcolm Gladwell says you can't understand Bill Gates' success without understanding his background. Thiel says you can't understand *Outliers* without understanding Gladwell's Baby Boomer mentality that success arises out of "the power of a particular individual's context as determined by chance" (69).    
+  So what does all this say about Thiel? Perhaps his hatred of the education system can be explained by the success of many of his Silicon Valley peers who forwent college (as well as the dissonance between his grueling education in law and his ultimate career path). Anyway, there's a good argument to be had on valuing breadth vs depth in school--I think having a base of general knowledge is useful for further learning and general life-awareness; but at the same time, finding a top job requires *only* substantial depth one's field. Regardless, I think Thiel goes a little overboard on his critism of the college curiculum as too broad: maybe this is true in the Liberal Arts, but in my experience technical majors typically choose to be overly-confined within a specific domain.    
+  Moreover, studying in the Bay has given me an impression of much-more definite optimism nowadays. What the future will look like is a frequent topic of coversation, and the prevalence of startups (and the success of this book) suggest that many are planning for it.
+
+
+
+
 
   
