@@ -142,14 +142,15 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   People think it pays to be the first mover in a market, to get a strong foothold before anyone else can react. But really, you want to focus on being the last mover, "to make the last great development" in that market (or as he says later on, to capture its key segment) (58).
 
 
-### Chapter 6: You Are Not a Lottery Ticket
+### Chapter 6: You Are Not a Lottery Ticket (1/2)
 
 * On the Causes of Success    
   For those like Malcolm Gladwell, success results from some "lucky breaks and arbitrary advantages" (why I found *Outliers* a somewhat vacuous read). Buffet, Gates, and Bezos offer similar platitudes, attributing their success to the "lucky sperm club", "ovarian lottery", and "incredible planetary alignment". Clearly cop-out answers, and Thiel agrees. He asserts that if success were purely accidental, we wouldn't see serial-billionares like Dorsey and Musk (although this statement seems logically unsound).
 
 * What is Luck    
   As Emerson wrote:    
-  > Shallow men believe in luck, believe in circumstances... Strong men believe in cause and effect.    
+  > Shallow men believe in luck, believe in circumstances... Strong men believe in cause and effect.
+   
   I always liked Milton's imagery: "luck is the residue of design". Thiel reflects on the long-standing history of such a sentiment--that luck is something to be mastered, dominated, and controlled. After all, "if you believe your life is mainly a matter of chance, why read this book?" (61).
 
 * Thinking About the Future    
@@ -177,7 +178,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   Moreover, studying in the Bay has given me an impression of much-more definite optimism nowadays. What the future will look like is a frequent topic of coversation, and the prevalence of startups (and the success of this book) suggest that many are planning for it.
 
 
-
+### Chapter 6: Our Indefinitely Optimistic World (2/2)
 
 
   
