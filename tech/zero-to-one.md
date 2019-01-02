@@ -181,7 +181,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 ### Chapter 6: Our Indefinitely Optimistic World (II/II)
 
 * Indefinite Finance    
-  A definite future calls for the work of engineers, designing and building "underwater cities and settlements in space". On the other hand, an indefinite future exiges bankers and lawyers. "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth" (70). Sure, people play in markets because they expect returns, but the market itself is ipso facto random--one can never make substantive, accurate forecasts, so the only solution is diversification.
+  A definite future calls for the work of engineers, designing and building "underwater cities and settlements in space". On the other hand, an indefinite future exiges bankers and lawyers. "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth" (70). Sure, people play in markets because they expect returns, but the market itself is ipso facto random--one can never make substantive, accurate forecasts, so the only solution is diversification.    
   On a side note, I'm reminded of Prof. Burton Malkiel's *A Walk Down Wall Street*:    
   > A blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts.
 
@@ -193,6 +193,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   * Not knowing what to do with the money, he gives it to a large bank.
   * The bankers don't know either, so they divvy it between institution investors.
   * The investors don't know either, so they spread it across stock portfolios.
+  
   Sound familiar? In this indefinite society, people want "unlimited optionality"--money itself--rather than anything you could do with it. "Only in a definite future is money a means to an end, not the end itself" (71).
 
 * Indefinite Politics    
@@ -200,7 +201,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 
 * Indefinite Philosophy    
   The ancients like Plato and Aristotle believed in a pessimistic future. How should one deal with the many, stifling contraints on human existence?
-  Later, philosophers like Spencer, Hegel, and Marx were bound by a belief in definite progress.    
+  Later philosophers like Spencer, Hegel, and Marx were bound by a belief in definite progress.    
   Nowadays, even philosophy is indefinite. He gives as examples John Rawls and Robert Nozick, both of whom lack concrete ideas about a better society (Rawl's "veil of ignorance" even goes as far to say that fair reasoning is impossible). They're concerned with processes, not results.
 
 * Indefinite Life    
@@ -208,10 +209,10 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   His more salient point is on biotech startups, who have stuck with the same approach to innovation as was used by Fleming in finding penicillin--waiting for luck to strike. Rather than find and test propitious hypotheses about the body, researchers have preferred brute-force trial and error (see "Eroom's Law: that the number of new drugs approved per billion dollars spent on R&D has halved every nine years since 1950") (73). 
 
 * Is Indefinite Optimism Even Possible?    
-  "How can the future get better if no one plans for it?" (77). Thiel's answer: evolution. That slow, evolutionary progress occurs by default. I'm not sure about this one either; it seems more likely that even in an indefinite society, there will still be some entrepreneurs pushing forward.
+  "How can the future get better if no one plans for it?" (77). Thiel's answer: evolution. That slow, evolutionary progress occurs by default.
 
 * The Power of Planning    
-  He brings up Steve Job's habit of ignoring media, peers, and public opinion in favor of his own long-term product plans.    
+  He brings up Steve Job's habit of ignoring media, peers, and public opinion in favor of his own long-term product plans. From Walter Isaacson's biography:
   > I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them.
 
   The lesson here? Rely on design, not chance. (Not listening to the customer à la Jobs and Ford may work for select visionaries, but it's value to most entrepreneurs seems highly dubitable.)    
