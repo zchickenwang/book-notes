@@ -142,7 +142,7 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
   People think it pays to be the first mover in a market, to get a strong foothold before anyone else can react. But really, you want to focus on being the last mover, "to make the last great development" in that market (or as he says later on, to capture its key segment) (58).
 
 
-### Chapter 6: You Are Not a Lottery Ticket (1/2)
+### Chapter 6: You Are Not a Lottery Ticket (I/II)
 
 * On the Causes of Success    
   For those like Malcolm Gladwell, success results from some "lucky breaks and arbitrary advantages" (why I found *Outliers* a somewhat vacuous read). Buffet, Gates, and Bezos offer similar platitudes, attributing their success to the "lucky sperm club", "ovarian lottery", and "incredible planetary alignment". Clearly cop-out answers, and Thiel agrees. He asserts that if success were purely accidental, we wouldn't see serial-billionares like Dorsey and Musk (although this statement seems logically unsound).
@@ -150,35 +150,72 @@ If you enjoy these notes, please [purchase the book](https://www.amazon.com/Zero
 * What is Luck    
   As Emerson wrote:    
   > Shallow men believe in luck, believe in circumstances... Strong men believe in cause and effect.
-   
+
   I always liked Milton's imagery: "luck is the residue of design". Thiel reflects on the long-standing history of such a sentiment--that luck is something to be mastered, dominated, and controlled. After all, "if you believe your life is mainly a matter of chance, why read this book?" (61).
 
 * Thinking About the Future    
   He gives 2 axes by which we judge the future.     
-  The first is definitiveness: when you treat the future as something definite, it follows that you should work to understand and shape it. "But if you expect an indefinite future ruled by randomness, you'll give up on trying to master it"--and this is the prevailing attitude of society today, where "process trumps substance" and people try to assemble diverse portfolios of possible options au lieu of making concrete plans (for instance, students from middle school to college are told to have diverse extracurriculars, so that "come what may, he's ready--for nothing in particular") (62).    
+  The first is definitiveness: when you treat the future as something definite, it follows that you should work to understand and shape it. "But if you expect an indefinite future ruled by randomness, you'll give up on trying to master it"--and this is the prevailing attitude of society today, where "process trumps substance" and people try to assemble diverse portfolios of possible options au lieu of making concrete plans. For instance, students from middle school to college are told to have diverse extracurriculars, so that "come what may, he's ready--for nothing in particular") (62).    
   The second is optimism: whether or not you think the future will be better than the present.
 
 * A Tale of Four Views    
-  * Indefinite Pessimism
+  * **Indefinite Pessimism**    
     Aka Europe (sad but true), whose culture today is enslaved to the "myth of decline from some golden age". You don't know when or how this inevitable decline will occur, but it's going to happen, so you might as well "eat drink, and be merry in the meantime" (63).
 
-  * Definite Pessimism
+  * **Definite Pessimism**    
     This is China today, where most people believe with certainty that the economy will be in trouble, taking action to prepare for the coming trouble. While the poor put everything into savings, the rich search desperately for ways to get their money out of the country--both are haunted by a lack of resources for a growing population, and a too-recent past of starvation.
 
-  * Definite Optimism
+  * **Definite Optimism**   
     This is the ideal attitude, and it's what Western society espoused in the mid-late 20th century. Everyone believed in a better future, and many took concrete action to pull that future closer. As Marx and Engels wondered how "such productive forces slumbered in the lap of social labor", new inventors and visionaries arose to tackle problems like ocean routes, skyscrapers and bridges, nuclear bombs, and space travel.
 
-  * Indefinite Optimism
+  * **Indefinite Optimism**    
     What characterizes the US today. To an indefinite optimist, the future will be better, but he doesn't know how exactly. "He expects to profit from the future but sees no reason to design it concretely" (68).
     How did we become indefinite? For Thiel it began with Baby Boomers, a generation who grew up with great expectations ("things got better every year for the first 18 years of your life, and *it had nothing to do with you*") but no specific plans on how to fulfill them (69). Instead of creating something new, they looked to restructure or optimize existing solutions.
 
 * Perspective    
   Malcolm Gladwell says you can't understand Bill Gates' success without understanding his background. Thiel says you can't understand *Outliers* without understanding Gladwell's Baby Boomer mentality that success arises out of "the power of a particular individual's context as determined by chance" (69).    
-  So what does all this say about Thiel? Perhaps his hatred of the education system can be explained by the success of many of his Silicon Valley peers who forwent college (as well as the dissonance between his grueling education in law and his ultimate career path). Anyway, there's a good argument to be had on valuing breadth vs depth in school--I think having a base of general knowledge is useful for further learning and general life-awareness; but at the same time, finding a top job requires *only* substantial depth one's field. Regardless, I think Thiel goes a little overboard on his critism of the college curiculum as too broad: maybe this is true in the Liberal Arts, but in my experience technical majors typically choose to be overly-confined within a specific domain.    
-  Moreover, studying in the Bay has given me an impression of much-more definite optimism nowadays. What the future will look like is a frequent topic of coversation, and the prevalence of startups (and the success of this book) suggest that many are planning for it.
+  So what does all this say about Thiel? Perhaps his hatred of the education system was cultivated by the success of many of his Silicon Valley peers who forwent college (as well as the dissonance between his grueling education in law and his ultimate career path). Anyway, there's a good argument to be had on valuing breadth vs depth in school--I think having a base of general knowledge is useful for further learning and general life-awareness; but at the same time, finding a top job requires *only* substantial depth in one's field. Regardless, I think Thiel goes a little overboard with his critism of the college curiculum being too broad: maybe this is true in the Liberal Arts, but in my experience technical majors typically choose to be overly-confined within a specific domain.    
+  Moreover, studying in the Bay has given me an impression of much-more definite optimism nowadays. What the future will look like is a frequent topic of discussion, and the prevalence of startups (and the success of this book) suggest that many are planning for it.
 
 
-### Chapter 6: Our Indefinitely Optimistic World (2/2)
+### Chapter 6: Our Indefinitely Optimistic World (II/II)
+
+* Indefinite Finance    
+  A definite future calls for the work of engineers, designing and building "underwater cities and settlements in space". On the other hand, an indefinite future exiges bankers and lawyers. "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth" (70). Sure, people play in markets because they expect returns, but the market itself is ipso facto random--one can never make substantive, accurate forecasts, so the only solution is diversification.
+  On a side note, I'm reminded of Prof. Burton Malkiel's *A Walk Down Wall Street*:    
+  > A blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts.
+
+  Such a study was later actually [conducted](https://www.researchaffiliates.com/en_us/publications/journal-papers/p_2013_aug_surprising_alpha.html); in it, Malkiel's monkeys performed even better than the human benchmark. Not really suprising, when even Econ 101 teaches that the vast majority of money managers lose money year on year.
+
+* Indefinite Money    
+  Picture this:    
+  * An entrepreneur exits successfully.
+  * Not knowing what to do with the money, he gives it to a large bank.
+  * The bankers don't know either, so they divvy it between institution investors.
+  * The investors don't know either, so they spread it across stock portfolios.
+  Sound familiar? In this indefinite society, people want "unlimited optionality"--money itself--rather than anything you could do with it. "Only in a definite future is money a means to an end, not the end itself" (71).
+
+* Indefinite Politics    
+  He criticizes the electoral process for becoming too short-minded: modern polling (s/o Nate Silver) has led politicians to focus on weekly voter sentiment rather than decades-long visions. And what happened to government programs? They used to take on problems like atomic weapons and lunar landings; now they can't even handle insurance. He points out the consistent decline of discretionary spending since 1975 as further signal of indefinite thinking.
+
+* Indefinite Philosophy    
+  The ancients like Plato and Aristotle believed in a pessimistic future. How should one deal with the many, stifling contraints on human existence?
+  Later, philosophers like Spencer, Hegel, and Marx were bound by a belief in definite progress.    
+  Nowadays, even philosophy is indefinite. He gives as examples John Rawls and Robert Nozick, both of whom lack concrete ideas about a better society (Rawl's "veil of ignorance" even goes as far to say that fair reasoning is impossible). They're concerned with processes, not results.
+
+* Indefinite Life    
+  Thiel says that while death used to be "something to defeat", nowadays we're resigned to it being both "inevitable and random" (74). This is pretty hard to believe, given how badly people want to stay alive (although I haven't done the research).    
+  His more salient point is on biotech startups, who have stuck with the same approach to innovation as was used by Fleming in finding penicillin--waiting for luck to strike. Rather than find and test propitious hypotheses about the body, researchers have preferred brute-force trial and error (see "Eroom's Law: that the number of new drugs approved per billion dollars spent on R&D has halved every nine years since 1950") (73). 
+
+* Is Indefinite Optimism Even Possible?    
+  "How can the future get better if no one plans for it?" (77). Thiel's answer: evolution. That slow, evolutionary progress occurs by default. I'm not sure about this one either; it seems more likely that even in an indefinite society, there will still be some entrepreneurs pushing forward.
+
+* The Power of Planning    
+  He brings up Steve Job's habit of ignoring media, peers, and public opinion in favor of his own long-term product plans.    
+  > I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them.
+
+  The lesson here? Rely on design, not chance. (Not listening to the customer à la Jobs and Ford may work for select visionaries, but it's value to most entrepreneurs seems highly dubitable.)    
+  > A startup is the largest endeavour over which you can have definite mastery. You can have agency not just over your own life, but over a small and important part of the world. It begins by rejecting the unjust tyranny of Chance. You are not a lottery ticket.
 
 
   
